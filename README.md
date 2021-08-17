@@ -4,8 +4,8 @@
 - 🌱 Sou estudante estudando Ciências da Computação na Universidade Federal de Viçosa
 <div>
   <a href="https://github.com/BelfortJoao">
-  <img align="Center" height="170em" src="https://github-readme-stats.vercel.app/api?username=BelfortJoao&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img align="Center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelfortJoao&layout=compact&langs_count=7&theme=gotham"/>
+  <img align="Center" height="160em" src="https://github-readme-stats.vercel.app/api?username=BelfortJoao&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img align="Center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelfortJoao&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 
