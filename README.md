@@ -1,4 +1,4 @@
-### Opa eae, eu sou o João 👋
+### Opa eae, eu sou o João Victor 👋
 
 - 🔭 Estou trabalhando com meu projeto a MCB (My Computer Brazil) no Instagram
 - 🌱 Sou estudante estudando Ciências da Computação na Universidade Federal de Viçosa
