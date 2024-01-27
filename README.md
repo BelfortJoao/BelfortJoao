@@ -3,24 +3,23 @@
 </h1>
 
 <div align="center">
-  <h2>A passionate Fullstack developer from Brazil br</h2>
+  <h2>A passionate Fullstack developer from Brazil</h2>
   <ol align="left">
     <li>
-      <strong>Estudos</strong>
-      <p>🌱 Sou estudante de Ciência da Computação na Universidade Federal de Viçosa.</p>
+      <strong>Studies</strong>
+      <p>🌱 I am a Computer Science student at the Federal University of Viçosa.</p>
     </li>
     <li>
-      <strong>Sobre Mim </strong>
-      <p>👻 Amo filmes de terror e adoro jogar xadrez. </p>
+      <strong>About Me</strong>
+      <p>👻 I love horror movies and enjoy playing chess.</p>
     </li>
     <li>
-      <strong>Interesses</strong>
-      <p>⚙️ Tenho interesse em Engenharia de Software e metodologias ágeis. </p>
+      <strong>Interests</strong>
+      <p>⚙️ I am interested in Software Engineering and agile methodologies.</p>
     </li>
     <li>
-      <strong>Estudando</strong>
-      <p>📚 Estou estudando React, Next e desenvolvimento web.</p>
-    </li>
+      <strong>Currently Learning</strong>
+      <p>📚 I am currently studying React, Next, and web development.</p>
     </li>
   </ol>
 </div>
