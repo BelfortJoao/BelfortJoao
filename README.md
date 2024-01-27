@@ -1,7 +1,7 @@
-<head style="color: white">
-  <h1>Opa eae, Baum?<br>
-  Eu sou o João Victor 👋</h1>
-</head>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&Color=white&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Victor!;+Tudo Baum?+😊" />
+</h1>
+
 <div align="center">
   <h2>A passionate Fullstack developer from Brazil br</h2>
   <ol align="left">
@@ -26,7 +26,7 @@
 </div>
 
 <div display="flex" align="center">
-  <a href="https://www.linkedin.com/in/belfortjoao/'"><img src="icons/linkedin.png" alt="LinkedIn" width="120" height="40"></a>
+  <a href="https://www.linkedin.com/in/belfortjoao"><img src="icons/linkedin.png" alt="LinkedIn" width="120" height="40"></a>
   <a href="mailto:belfort.joao@proton.me"><img src="icons/email.png" alt="Instagram" width="120" height="40"></a>
   <a href="' + portfolio + '"><img src="icons/portfolio.png" alt="Twitter" width="120" height="40"></a>
 </div>
@@ -53,6 +53,20 @@
   <br/>
   <a href="https://git-scm.com"><img src="icons/11.png" alt="Git" width="40" height="40"></a>
   <a href="https://github.com"><img src="icons/12.png" alt="GitHub" width="40" height="40" border-radius="15px"></a>
+  <br/><br/>
 </div>
+
+<div align="center">
   
-##
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BelfortJoao/BelfortJoao/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/BelfortJoao' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
