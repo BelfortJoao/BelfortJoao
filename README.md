@@ -16,6 +16,7 @@
   <img align="center" alt="Joao-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png">
    <img align="center" alt="Joao-Tailwind" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg">
    <img align="center" alt="Joao-Sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
+<img align="center" alt="Joao-Flask" height="30" width="40" src="https://static-00.iconduck.com/assets.00/programming-language-flask-icon-2048x1826-wf5k5ugs.png">
 </div>
   
   ##
