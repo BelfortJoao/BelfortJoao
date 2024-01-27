@@ -1,6 +1,6 @@
 ### Opa eae, eu sou o João Victor 👋
 
-- 🌱 Sou estudante de Ciência da Computação na Universidade Federal de Viçosa
+-   🌱 Sou estudante de Ciência da Computação na Universidade Federal de Viçosa
 
 <div>
   <a href="https://github.com/BelfortJoao">
@@ -8,18 +8,19 @@
   <img align="Center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelfortJoao&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Javascript" height="30" width="30" src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png">
-  <img align="center" alt="Joao-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png">
-   <img align="center" alt="Joao-Tailwind" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg">
-   <img align="center" alt="Joao-Sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
-<img align="center" alt="Joao-Flask" height="30" width="40" src="https://static-00.iconduck.com/assets.00/programming-language-flask-icon-2048x1826-wf5k5ugs.png">
+  <a href="https://www.python.org"><img src="icons/1.png" alt="Python" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="icons/2.png" alt="C Language" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://www.java.com"><img src="icons/3.png" alt="Java" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://flask.palletsprojects.com"><img src="icons/4.png" alt="Flask" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/5.png" alt="HTML" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/6.png" alt="CSS" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="icons/7.png" alt="JavaScript" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://tailwindcss.com"><img src="icons/8.png" alt="Tailwind" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://getbootstrap.com"><img src="icons/9.png" alt="Bootstrap" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://sass-lang.com"><img src="icons/10.png" alt="Sass" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://git-scm.com"><img src="icons/11.png" alt="Git" style="border-radius: 25%; width: 40px; height: 40px;"></a>
+  <a href="https://github.com"><img src="icons/12.png" alt="GitHub" style="border-radius: 25%; width: 40px; height: 40px;"></a>
 </div>
   
-  ##
- 
-
-
+##
