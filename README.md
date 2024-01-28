@@ -43,7 +43,7 @@
 <a href="https://expressjs.com"><img src="icons/15.png" alt="Express.js" width="40" height="40"></a>
 <a href="https://firebase.google.com"><img src="icons/20.png" alt="Firebase" width="40" height="40"></a>
 <a href="https://www.mongodb.com"><img src="icons/21.png" alt="MongoDB" width="40" height="40"></a>
-<a href="https://robotframework.org/"><img src="icons/22.png" alt="Robotpy" width="40" height="40"></a>
+<a href="https://robotframework.org/"><img src="icons/22.png" alt="Robot.py" width="40" height="40"></a>
 
   <hr/>
   <strong>Frontend<strong>
