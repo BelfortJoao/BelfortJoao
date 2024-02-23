@@ -60,6 +60,9 @@
 <a href="https://nuxtjs.org"><img src="icons/18.png" alt="Nuxt.js" width="40" height="40"></a>
 <a href="https://www.typescriptlang.org"><img src="icons/19.png" alt="TypeScript" width="40" height="40"></a>
 
+
+<a href="https://pinia.vuejs.org/"><img src="icons/20.png" alt="Pinia" width="40" height="40"></a>
+
   <hr/>
   <strong>Other<strong>
   <br/>
