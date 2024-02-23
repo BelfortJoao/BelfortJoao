@@ -53,16 +53,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/6.png" alt="CSS" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="icons/7.png" alt="JavaScript" width="40" height="40"></a>
   <a href="https://tailwindcss.com"><img src="icons/8.png" alt="Tailwind" width="40" height="40"></a>
+<a href="https://pinia.vuejs.org/"><img src="icons/23.png" alt="Pinia" width="40" height="40"></a>
 
 <a href="https://getbootstrap.com"><img src="icons/9.png" alt="Bootstrap" width="40" height="40"></a>
 <a href="https://sass-lang.com"><img src="icons/10.png" alt="Sass" width="40" height="40"></a>
 <a href="https://vuejs.org"><img src="icons/17.png" alt="Vue.js" width="40" height="40"></a>
 <a href="https://nuxtjs.org"><img src="icons/18.png" alt="Nuxt.js" width="40" height="40"></a>
 <a href="https://www.typescriptlang.org"><img src="icons/19.png" alt="TypeScript" width="40" height="40"></a>
-
-
-<a href="https://pinia.vuejs.org/"><img src="icons/20.png" alt="Pinia" width="40" height="40"></a>
-
   <hr/>
   <strong>Other<strong>
   <br/>
