@@ -48,7 +48,6 @@
   <hr/>
   <strong>Frontend<strong>
   <br/>
-  <a href="https://www.netlify.com"><img src="icons/16.png" alt="Netlify" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/5.png" alt="HTML" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/6.png" alt="CSS" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="icons/7.png" alt="JavaScript" width="40" height="40"></a>
